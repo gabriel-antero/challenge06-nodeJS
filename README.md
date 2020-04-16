@@ -18,9 +18,10 @@
 </p>
 
 <p align="center">
-  <a href="">Sobre o desafio<a/> |
-  <a href="">Objetivos a realizar<a/> |
-  <a href="">LICENÇA<a/>
+  <a href="https://github.com/gabriel-antero/challenge06-nodeJS#information_source-sobre-o-desafio">Sobre o desafio<a/> |
+  <a href="https://github.com/gabriel-antero/challenge06-nodeJS#dart-objetivos-realizados">Objetivos a realizar<a/> |
+  <a href="https://github.com/gabriel-antero/challenge06-nodeJS#espec%C3%ADfica%C3%A7%C3%A3o-dos-testes">Especificação dos testes<a/> |
+  <a href="https://github.com/gabriel-antero/challenge06-nodeJS#memo-licen%C3%A7a">LICENÇA<a/>
 </p>
 
 ## :information_source: Sobre o desafio
@@ -132,7 +133,7 @@ Feito utilizando testes automatizados.
 
 ## :memo: LICENÇA
 
-Projeto sobre licença MIT. Mais informações em [LICENÇA]().
+Projeto sobre licença MIT. Mais informações em [LICENÇA](https://github.com/gabriel-antero/challenge06-nodeJS/blob/master/LICENSE).
 
 ---
 
