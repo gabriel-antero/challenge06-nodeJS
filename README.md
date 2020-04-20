@@ -10,10 +10,10 @@
 
 <p align="center">
  
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gabriel-antero/challenge-reactJS">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/gabriel-antero/challenge-reactJS"> 
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/gabriel-antero/challenge-reactJS">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gabriel-antero/challenge-reactJS">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gabriel-antero/challenge06-nodeJS">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/gabriel-antero/challenge06-nodeJS"> 
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/gabriel-antero/challenge06-nodeJS">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gabriel-antero/challenge06-nodeJS">
   
 </p>
 
